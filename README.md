@@ -2,10 +2,6 @@
   <img src="logo-dark.svg" alt="A Shed Called Skynet logo" width="600">
 </p>
 
-<p align="center"><strong>Big ideas, built in a small shed.</strong></p>
-
----
-
 ## About
 
 From the outside, it's just a shed. Inside, it's a workshop where sawdust and circuit boards share the same bench.
