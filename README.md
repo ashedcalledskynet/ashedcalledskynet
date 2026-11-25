@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-dark.svg" alt="A Shed Called Skynet logo" width="600">
+  <img src="logo-dark.svg" alt="A Shed Called Skynet logo" width="100%">
 </p>
 
 ## About
