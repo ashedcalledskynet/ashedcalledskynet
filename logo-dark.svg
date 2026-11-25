@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="A Shed Called Skynet logo">
+  <rect width="900" height="300" rx="24" fill="#10231D"/>
+  <g transform="translate(60,40) scale(1.1)">
+    <g fill="none" stroke="#E9DCC4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="28,98 100,42 172,98"/>
+      <polyline points="42,88 42,172 158,172 158,88"/>
+      <rect x="58" y="114" width="34" height="58" rx="3"/>
+      <line x1="100" y1="42" x2="100" y2="20"/>
+    </g>
+    <circle cx="84" cy="144" r="4" fill="#E9DCC4"/>
+    <rect x="106" y="110" width="38" height="32" rx="3" fill="#F4A62A"/>
+    <line x1="125" y1="110" x2="125" y2="142" stroke="#10231D" stroke-width="4"/>
+    <line x1="106" y1="126" x2="144" y2="126" stroke="#10231D" stroke-width="4"/>
+    <g fill="none" stroke="#F4A62A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="125,142 125,156 146,156"/>
+      <polyline points="144,118 158,118 158,108 184,108"/>
+      <path d="M90 12 A14 14 0 0 1 110 12"/>
+      <path d="M83 5 A23 23 0 0 1 117 5"/>
+    </g>
+    <circle cx="150" cy="156" r="4" fill="#F4A62A"/>
+    <circle cx="188" cy="108" r="4" fill="#F4A62A"/>
+    <circle cx="100" cy="20" r="5" fill="#F4A62A"/>
+  </g>
+  <text x="320" y="122" font-family="'Space Grotesk', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="500" letter-spacing="8" fill="#E9DCC4">A SHED CALLED</text>
+  <text x="314" y="226" font-family="'Space Grotesk', 'Helvetica Neue', Arial, sans-serif" font-size="104" font-weight="700" letter-spacing="-2" fill="#E9DCC4">Skynet<tspan fill="#F4A62A">.</tspan></text>
+</svg>
